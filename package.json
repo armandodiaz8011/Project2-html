@@ -1,0 +1,23 @@
+{
+  "name": "project2-html",
+  "version": "1.0.0",
+  "description": "Project assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandodiaz8011/Project2-html.git"
+  },
+  "author": "Armando Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandodiaz8011/Project2-html/issues"
+  },
+  "homepage": "https://github.com/armandodiaz8011/Project2-html#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
